@@ -9,7 +9,7 @@ The company operates through an omnichannel distribution strategy, leveraging bo
 # Data Structure & Initial Checks
 EverMarket has a core dataset consisting of orders, order statuses, customers, products, and geographic information, with a total row count of 108,127 records.
 
-The Entity Relationship Diagram can be found  [here]().
+The Entity Relationship Diagram can be found  [here](https://console.cloud.google.com/bigquery?sq=820445983612:163ccacdd3554467b238d23659276b75).
 
 The data cleaning change log can be found [here](https://docs.google.com/document/d/1x_6FtqfkpM4P56TlK2onV0IGhUkG6LhKkhMfuDUR2Mo/edit?usp=sharing).
 
