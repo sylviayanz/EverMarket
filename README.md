@@ -13,7 +13,7 @@ The Entity Relationship Diagram can be found  [here]().
 
 The data cleaning change log can be found [here]().
 
-The SQL queries performed to uncover these insights can be found [here](https://github.com/sylviayanz/elist_analysis/blob/main/SQL_Queries.sql).
+The SQL queries performed to uncover these insights can be found [here](https://console.cloud.google.com/bigquery?sq=820445983612:163ccacdd3554467b238d23659276b75).
 
 
 # Executive Summary
