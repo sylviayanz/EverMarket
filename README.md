@@ -96,7 +96,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 
 
- - **Direct Channel Dominates with 78% of Orders:**
+ - **Direct Channel Dominates with 78% of Orders, and 83% revenue:**
    -   Website serves as the primary sales platform, reflecting a successful direct-to-consumer distribution strategy.
   
  -  **Affiliate with Highest AOV $303:**
