@@ -22,8 +22,13 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 # Insights Deep Dive
 
+
+
+																																									
 ## Sales Trends
-<img width="994" alt="Screenshot 2025-02-27 at 10 57 55 AM" src="https://github.com/user-attachments/assets/3b2dd364-42ee-4704-9442-c52a01f536e0" />
+<img width="989" alt="Screenshot 2025-03-03 at 6 43 54 PM" src="https://github.com/user-attachments/assets/dbac6f1f-eb2f-4a8a-b196-99502c951d27" />
+
+
 
 
 
@@ -33,14 +38,11 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
    - Despite a 6% increase in order volume, total sales declined by 10%, indicating **order growth failed to translate to revenue** as AOV decreased significantly from 2020 levels. 
    - This downward trend intensified in 2022, with total sales dropping 46%, accompanied by a 40% reduction in order count.
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="width:60%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/4f5e0971-df4f-4b5c-bcc7-f21f40d10392" /></td>
-      <td style="width:40%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/a5fceb82-f3bc-49f4-b518-00dce9ea4344" /></td>
-    </tr>
-  </table>
-</div>
+<img width="983" alt="mom" src="https://github.com/user-attachments/assets/e1f7922b-3e1f-4067-b2d1-d083d66398db" />
+
+
+
+
 
 
  - **Seasonal & Geographic pattern:**
@@ -49,8 +51,9 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 ## Product Trends
 
+<img width="992" alt="productshare" src="https://github.com/user-attachments/assets/facf462b-f3ec-4f1e-b000-d3c670a68835" />
 
-<img width="1194" alt="Screenshot 2025-02-27 at 2 14 38 PM" src="https://github.com/user-attachments/assets/b0f2617d-55d5-4687-bda7-9e3e206b4d41" />
+
 
 
 
@@ -77,15 +80,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 ## Loyalty Program Performance
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td style="width:60%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/acc2eb1b-8f10-4196-9f61-14ca21bf7c4b"/></td>
-      <td style="width:40%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/f2569040-ffa0-4bfe-b490-d0d582ec8c50"/></td>
-    </tr>
-  </table>
-</div>
+<img width="983" alt="loyal" src="https://github.com/user-attachments/assets/488f3ca4-0d6b-42e4-b966-db16f57b1c55" />
 
 
  - **2021 Loyalty Sales Milestone:** 
@@ -96,7 +91,9 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 
 ## Marketing Channel Performance
-   <img width="1187" alt="Screenshot 2025-02-27 at 2 35 54 PM" src="https://github.com/user-attachments/assets/ff9d2376-852f-47ac-aa29-fa5e79d531b5" />
+<img width="990" alt="Screenshot 2025-03-03 at 8 02 33 PM" src="https://github.com/user-attachments/assets/d5ee0720-c232-4090-9322-fc00f381e859" />
+
+
 
 
  - **Direct Channel Dominates with 78% of Orders:**
@@ -114,8 +111,8 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 <div align="center">
   <table>
     <tr>
-      <td style="width:50%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/caf60c29-be53-48f6-924e-25838f501f67"/></td>
-      <td style="width:50%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/31d9ce62-7ed3-4011-8fe4-ac7de51112cf"/></td>
+      <td style="width:50%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/19640e09-f447-48da-8d01-4573049d9c45"/></td>
+      <td style="width:50%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/613470eb-42b5-47f3-b573-0ea20f793883"/></td>
     </tr>
   </table>
 </div>
