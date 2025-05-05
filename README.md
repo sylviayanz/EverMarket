@@ -15,6 +15,9 @@ The data cleaning change log can be found [here](https://docs.google.com/documen
 
 The SQL queries performed to uncover these insights can be found [here](https://console.cloud.google.com/bigquery?sq=820445983612:163ccacdd3554467b238d23659276b75).
 
+The interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/EverMarketSalesPerformanceDashboard/SalesDashboard).
+
+
 
 # Executive Summary
 From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orders**, with an average order value (AOV) of $260. The sales trends across these four years showed significant fluctuations. **2020** marked an exceptional year, as consumer behavior shifted to online ordering, **with revenue soaring 163%, orders doubling, and AOV growing 31%.** However, this momentum reversed in 2021 with a 10% sales decline, followed by a steeper **46% drop in 2022** as the market returned to pre-pandemic levels. Recapturing the consumer spending boom of 2020-2021 has become an urgent priority.
