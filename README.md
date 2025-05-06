@@ -86,8 +86,8 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 > **Note:** No refund data was recorded in 2022, which may impact trend analysis.
 
 ## Loyalty Program Performance
+<img width="1788" alt="Screenshot 2025-05-06 at 6 11 21 PM" src="https://github.com/user-attachments/assets/f0c33902-682c-479b-95b4-004fc11c92f1" />
 
-<img width="1795" alt="Screenshot 2025-05-06 at 6 04 43 PM" src="https://github.com/user-attachments/assets/25ed5035-6369-4724-b6b5-14dc6d3321be" />
 
 
 
