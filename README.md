@@ -72,6 +72,8 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
     
 
 ## Refund Rate
+<img width="1071" alt="Screenshot 2025-05-06 at 5 45 28 PM" src="https://github.com/user-attachments/assets/8e97e490-4cb4-497a-b189-3ddd984f31f5" />
+
 
  - **Pandemic-Era Refund Challenges:**
     
