@@ -121,6 +121,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
   </table>
 </div>
 
+<img width="1187" alt="Screenshot 2025-05-06 at 12 20 05 PM" src="https://github.com/user-attachments/assets/3fb6078a-8be5-4dbf-a960-690bed424fac" />
 
 
  - **50% Revenue from North America:**
