@@ -25,6 +25,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 # Insights Deep Dive
 
+<img width="1177" alt="Screenshot 2025-05-06 at 10 49 11 AM" src="https://github.com/user-attachments/assets/826240e5-238f-45d5-ad96-3db263164d1d" />
 
 
 																																									
@@ -44,6 +45,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 <img width="983" alt="mom" src="https://github.com/user-attachments/assets/e1f7922b-3e1f-4067-b2d1-d083d66398db" />
 
 
+![Seasonality](https://github.com/user-attachments/assets/814fb21e-509b-4b4e-bf0f-217882b79d6e)
 
 
 
