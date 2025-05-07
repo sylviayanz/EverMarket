@@ -160,22 +160,17 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 
 ## Global Reach
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="width:50%"><img width="100%" alt="First chart" src="https://github.com/user-attachments/assets/19640e09-f447-48da-8d01-4573049d9c45"/></td>
-      <td style="width:50%"><img width="100%" alt="Second chart" src="https://github.com/user-attachments/assets/613470eb-42b5-47f3-b573-0ea20f793883"/></td>
-    </tr>
-  </table>
-</div>
+<img width="1397" alt="Screenshot 2025-05-07 at 2 00 46 PM" src="https://github.com/user-attachments/assets/a35c8d11-73b5-4d9b-a463-53eff83f5862" />
 
 
+- **Top 10 Markets: 78% of Revenue**
+	- EverMarket’s services span over **190 countries across four global regions**. The **top 10 markets accounted for 78% of total revenue**, with the **US leading at $13.3M (47%)** and an **average order value (AOV) of $262**.  In the U.S., the **27-inch 4K gaming monitor** was the top-performing product, contributing **36% of national sales**, reflecting strong consumer demand for high-performance displays.
+	- Including Canada, the **North American region collectively contributed over 50% of total sales**, underscoring its strategic importance.
 
- - **50% Revenue from North America:**
-   - Primarily driving the exceptional growth **in 2020 with a $3M increase**. Despite the market downturn in 2021-2022, the stable regional distribution patterns persist across all markets.
-  
- - **Top 10 Markets: 78% of Revenue:**
-   -   EverMarket's services extend to over 190 countries globally, with the top 10 markets generating 78% of total revenue, **led by the US at 47%.**
+- **Japan Emerges as a High-Value Growth Market**
+	- Japan recorded the **highest average order value (AOV) at $395**, driven by strong demand for **laptops and high-resolution monitors**.  
+	- This indicates a **clear consumer preference for premium tech products**, backed by **high purchasing power**, making Japan a prime candidate for focused marketing and high-end product expansion.
+
  
  
 # Recommendations
