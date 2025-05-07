@@ -16,7 +16,7 @@ The data cleaning change log can be found [here](https://docs.google.com/documen
 The SQL queries performed to uncover these insights can be found [here](https://console.cloud.google.com/bigquery?sq=820445983612:163ccacdd3554467b238d23659276b75).
 
 The interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/EverMarketSalesPerformanceDashboard/SalesDashboard).
-<img width="1213" alt="Screenshot 2025-05-06 at 2 26 07 PM" src="https://github.com/user-attachments/assets/2e452de9-03de-46ae-a764-33482f13d23d" />
+
 
 
 # Executive Summary
@@ -168,7 +168,6 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
   </table>
 </div>
 
-<img width="1187" alt="Screenshot 2025-05-06 at 12 20 05 PM" src="https://github.com/user-attachments/assets/3fb6078a-8be5-4dbf-a960-690bed424fac" />
 
 
  - **50% Revenue from North America:**
