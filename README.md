@@ -91,7 +91,10 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
 
 
 
- - **2021 Loyalty Sales Milestone:** 
+ - **2021 Loyalty Sales Milestone:**
+<img width="1792" alt="Screenshot 2025-05-07 at 9 56 11 AM" src="https://github.com/user-attachments/assets/7b4d4c67-e584-460a-baa9-0823b6cd0237" />
+
+
 	 - **Loyal customer sales surpassed non-loyal sales in 2021**, with both AOV and order value exceeding non-loyal customers for the first time, marking a significant shift in revenue patterns. However, data from late 2022 indicates another potential trend reversal, warranting continued monitoring.
 	 
 - **Loyal Customer Purchasing Efficiency:**
