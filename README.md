@@ -136,6 +136,11 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 	- However, **data from late 2022 signals a possible trend reversal**, suggesting the gap may be narrowing. Continued monitoring is recommended.
  
 
+
+
+
+
+
 ## Marketing Channel Performance
 <img width="990" alt="Screenshot 2025-03-03 at 8 02 33 PM" src="https://github.com/user-attachments/assets/d5ee0720-c232-4090-9322-fc00f381e859" />
 
