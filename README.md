@@ -135,7 +135,8 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 	- In contrast, **non-loyal AOV declined sharply after 2020**, highlighting potential disengagement or lower-value purchases.
 	- However, **data from late 2022 signals a possible trend reversal**, suggesting the gap may be narrowing. Continued monitoring is recommended.
  
-
+-   **Loyal Customer Purchasing Efficiency**
+	- Loyalty members completed their purchase journey significantly faster—**on average 20 days shorter** than non-loyal customers (**49 days vs. 70 days**), reflecting greater purchasing intent and decision-making efficiency.
 
 
 
