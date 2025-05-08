@@ -15,9 +15,7 @@ The data cleaning change log can be found [here](https://docs.google.com/documen
 
 The SQL queries performed to uncover these insights can be found [here](https://console.cloud.google.com/bigquery?sq=820445983612:163ccacdd3554467b238d23659276b75).
 
-The interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/EverMarketSalesPerformanceDashboard/SalesDashboard).
-
-
+The interactive dashboard can be found [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/EverMarketSalesPerformanceDashboard/SalesDashboard).
 
 # Executive Summary
 <img width="989" alt="Screenshot 2025-03-03 at 6 43 54 PM" src="https://github.com/user-attachments/assets/dbac6f1f-eb2f-4a8a-b196-99502c951d27" />
@@ -120,7 +118,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
  
 > **Note:** No refund data was recorded in 2022, which may impact trend analysis.
 
-## Loyalty Program Performance
+## Loyalty Program
 
 <img width="1792" alt="Screenshot 2025-05-07 at 9 56 11 AM" src="https://github.com/user-attachments/assets/7b4d4c67-e584-460a-baa9-0823b6cd0237" />
 Launched in 2019, the loyalty program aimed to incentivize repeat purchases through a points-based reward system and targeted discounts. The program is now under a four-year performance review to evaluate its long-term viability.
@@ -138,65 +136,78 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 -   **Loyal Customer Purchasing Efficiency**
 	- Loyalty members completed their purchase journey significantly faster—**on average 20 days shorter** than non-loyal customers (**49 days vs. 70 days**), reflecting greater purchasing intent and decision-making efficiency.
 
+## Marketing Channel 
 
-
-
-
-## Marketing Channel Performance
 <img width="990" alt="Screenshot 2025-03-03 at 8 02 33 PM" src="https://github.com/user-attachments/assets/d5ee0720-c232-4090-9322-fc00f381e859" />
 
 
+-   **Direct Channel Dominates in Orders and Revenue**
+	- The **direct website channel** is the company’s strongest performer, accounting for **78% of total orders** and **83% of total revenue**. This highlights the effectiveness of the **direct-to-consumer (DTC) model**, supported by strong brand presence and a well-optimized digital storefront.
 
+-   **Affiliate Channel Delivers High AOV**
+	- While order volume from affiliates remains low, the **affiliate channel achieved the highest average order value (AOV) at $303**. This indicates its effectiveness in attracting **high-value customers** and presents a potential opportunity for expansion.
 
- - **Direct Channel Dominates with 78% of Orders, and 83% revenue:**
-   -   Website serves as the primary sales platform, reflecting a successful direct-to-consumer distribution strategy.
-  
- -  **Affiliate with Highest AOV $303:**
-    -   Though generating lower order volume, affiliate channels successfully target high-value customers, presenting significant growth potential worth investing in.
-
-   
- - **17% Orders from Email with Lowest AOV $181:**
-   - While email campaigns drive a substantial portion of orders, the below-average transaction value indicates opportunity to refine targeting and offer strategies.
+-   **Email Campaigns Drive Volume but Underperform in Value**
+	- **Email marketing contributes 17% of total orders**, making it a significant channel by volume. However, with the **lowest AOV at $181**, it signals a need to optimize targeting, messaging, and promotional strategies to **improve overall transaction value**.
 
 ## Global Reach
+
 <img width="1395" alt="Screenshot 2025-05-08 at 11 14 49 AM" src="https://github.com/user-attachments/assets/171a9dbb-4182-4e19-aac5-0f3247f955a6" />
 
-
 - **Top 10 Markets: 78% of Revenue**
-	- EverMarket’s services span over **190 countries across four global regions**. The **top 10 markets accounted for 78% of total revenue**, with the **US leading at $13.3M (47%)** and an **average order value (AOV) of $262**.  In the U.S., the **27-inch 4K gaming monitor** was the top-performing product, contributing **36% of national sales**, reflecting strong consumer demand for high-performance displays.
-	- Including Canada, the **North American region collectively contributed over 50% of total sales**, underscoring its strategic importance.
+	- EverMarket’s services span over **190 countries across four global regions**. The **top 10 markets accounted for 78% of total revenue**, with the **US leading at $13.3M (47%)** and an **average order value (AOV) of $262**.  In the U.S., the **4K gaming monitor** was the top-performing product, contributing **36% of national sales**, reflecting strong consumer demand for high-performance displays.
+	- When combined with Canada, **the North American region contributed over 50% of both total revenue and order volume**, underscoring its strategic importance and maturity as a core market.**
 
 - **Japan Emerges as a High-Value Growth Market**
-	- Japan recorded the **highest average order value (AOV) at $395**, driven by strong demand for **laptops and high-resolution monitors**.  
-	- This indicates a **clear consumer preference for premium tech products**, backed by **high purchasing power**, making Japan a prime candidate for focused marketing and high-end product expansion.
+	- Japan recorded the **highest AOV at $395**, well above the overall market average of $260. This was primarily driven by strong demand for **laptops and high-resolution monitors**.  
+	- This indicates a **clear consumer preference for premium tech products**, backed by **high purchasing power**, positioning Japan as a prime target for **focused marketing campaigns** and **high-end product expansion**.
 
- 
- 
+
 # Recommendations
-  **Sales Team:**
- -   **Focus core resources on maintaining growth in top 10 countries** (78% of total revenue) to secure stable revenue stream.
- -    **Explore growth opportunities in APAC region** - despite lower sales volume, their **high AOV (Japan $393 vs global $260)** indicates significant untapped potential.
- -    Consider **bundling low margin but high-volume accessories** (like Samsung Charging Cable Pack) with higher-margin products to increase overall transaction value.
-   
 
-**Product Team:**
+### **Boost Sales**
 
- -   Focus on **optimizing and expanding the top 3 products** that generate 85% of revenue to maintain market leadership.
- -   **Review iPhone and Bose Soundsport Headphones positioning** - both show revenue share below 1% with low order volumes.
- -   **Expand accessories product line** based on Samsung Charging Cable Pack's success (high order volume despite low revenue), with emphasis on identifying higher-margin alternatives.
- -  **Identify and introduce more Apple-compatible accessories and complementary products** to leverage our strong Apple product sales base (45-50% of revenue).
+ - **Diversify Product Offerings:** 
+ 
+	 - Expand beyond pandemic-driven categories by exploring adjacent or complementary product lines. Diversification will help **mitigate dependency on short-term demand cycles** and ensure relevance as consumer needs evolve.
+ - **Strengthen Focus in Core Markets:** 
+	 - Continue prioritizing the **top 10 countries**, which contribute **78% of total revenue**, to maintain a stable and scalable revenue base. These markets have proven high conversion and retention potential.
+ - **Leverage Premium Demand in High-AOV Regions**: 
+	 - In markets like **Japan**, where consumer appetite for high-end products is strong, implement **localized promotions, bundle deals, or exclusive discounts** to align with premium expectations and drive incremental sales.
+ - **Offset Seasonal Slumps with Targeted Campaigns:** 
+	 - Implement promotional strategies to address recurring dips in **October and February**. Tactics such as **early holiday promotions**, **limited-time offers**, and **customer re-engagement campaigns** (e.g., loyalty triggers) can help **smooth revenue fluctuations** and improve off-peak performance.
 
- **Marketing Team:**
-   
-   -   Develop targeted marketing campaigns for **top 10 countries** (78% of revenue), with customized strategies for each region.
-   -   Create **region-specific promotions** for February and October to address seasonal sales dips.
-   -   Strengthen affiliate partnership program with **higher commission rates**, given their superior AOV ($303), while optimizing email marketing campaigns to **increase AOV.**
+### **Product Strategy**
+
+ - **Optimize Product Portfolio:**
+ 
+	 - Reassess underperforming products, such as the **iPhone** and **Bose SoundSport headphones**, which each contribute **less than 1% of total revenue** and show consistently low order volumes. These items may require **repositioning, bundling**, or even **phase-out** depending on market fit and profitability.
+ - **Expand the Apple Ecosystem:**
+	 - Leverage the strong performance of Apple products, which account for **50% of total revenue**, by introducing more **Apple-compatible accessories and complementary items**.  This ecosystem-based strategy can help drive **higher average order value (AOV)**, improve **customer retention**, and increase **cross-sell potential**.
 
 
-**Customer Experience & Loyalty Program Team:**
+### **Expand Loyalty Program Value**
 
--   **Enhance loyalty program benefits** to maintain current loyal customer advantage, as data indicates narrowing performance gap between loyal and non-loyal segments.
--   **Leverage loyal customers' shorter time-to-purchase pattern** by creating time-sensitive exclusive offers.
+
+-   **Continue Monitoring Program Performance:** 
+	- The Loyalty Program has demonstrated steady year-over-year growth, consistently outperforming non-members in **AOV, total sales, and order volume**. However, a slight **slowdown was observed at the end of 2022**, warranting continued observation before making major adjustments.
+    
+-   **Leverage Program Value to Drive Member Spend:**  
+	- Exclusive perks and benefits have effectively incentivized members to spend more. These value drivers should be **reinforced through marketing**, especially during key purchasing periods.
+    
+-   **Target High-AOV Returning Customers for Enrollment:**  
+	- Promote the Loyalty Program to **returning customers with high purchase value** who are not yet members. This segment is likely to convert and generate incremental value through program participation.
+
+### **Strengthen Marketing Channels**
+
+-   **Reinforce direct and affiliate performance:**  
+	- Invest in website UX and conversion optimization to sustain strong direct channel results, while deepening affiliate partnerships to retain high-spending customers, capitalize on strong AOV, and drive higher order volume.
+    
+-   **Refine email marketing strategy:**  
+	- Improve segmentation and optimize promotional offers to increase AOV and overall effectiveness, addressing the channel’s current underperformance in transaction value.
+
+
+# Dashboard
+The interactive dashboard can be found in Tableau Public  [here](https://public.tableau.com/app/profile/sylvia.tsai/viz/EverMarketSalesPerformanceDashboard/SalesDashboard).
 
 <img width="1433" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/829fc699-fb02-4355-aebc-c50bdcf71e96" />
-
