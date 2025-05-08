@@ -198,3 +198,6 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 
 -   **Enhance loyalty program benefits** to maintain current loyal customer advantage, as data indicates narrowing performance gap between loyal and non-loyal segments.
 -   **Leverage loyal customers' shorter time-to-purchase pattern** by creating time-sensitive exclusive offers.
+
+<img width="1433" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/829fc699-fb02-4355-aebc-c50bdcf71e96" />
+
