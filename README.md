@@ -159,8 +159,7 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
    - While email campaigns drive a substantial portion of orders, the below-average transaction value indicates opportunity to refine targeting and offer strategies.
 
 ## Global Reach
-
-<img width="1397" alt="Screenshot 2025-05-07 at 2 00 46 PM" src="https://github.com/user-attachments/assets/a35c8d11-73b5-4d9b-a463-53eff83f5862" />
+<img width="1395" alt="Screenshot 2025-05-08 at 11 14 49 AM" src="https://github.com/user-attachments/assets/171a9dbb-4182-4e19-aac5-0f3247f955a6" />
 
 
 - **Top 10 Markets: 78% of Revenue**
