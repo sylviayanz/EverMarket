@@ -167,36 +167,24 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 
 ### **Boost Sales**
 
- - **Diversify Product Offerings:** 
- 
-	 - Expand beyond pandemic-driven categories by exploring adjacent or complementary product lines. Diversification will help **mitigate dependency on short-term demand cycles** and ensure relevance as consumer needs evolve.
- - **Strengthen Focus in Core Markets:** 
-	 - Continue prioritizing the **top 10 countries**, which contribute **78% of total revenue**, to maintain a stable and scalable revenue base. These markets have proven high conversion and retention potential.
- - **Leverage Premium Demand in High-AOV Regions**: 
-	 - In markets like **Japan**, where consumer appetite for high-end products is strong, implement **localized promotions, bundle deals, or exclusive discounts** to align with premium expectations and drive incremental sales.
- - **Offset Seasonal Slumps with Targeted Campaigns:** 
-	 - Implement promotional strategies to address recurring dips in **October and February**. Tactics such as **early holiday promotions**, **limited-time offers**, and **customer re-engagement campaigns** (e.g., loyalty triggers) can help **smooth revenue fluctuations** and improve off-peak performance.
+ - **Diversify Product Offerings:** Expand beyond pandemic-driven categories by exploring adjacent or complementary product lines. Diversification will help **mitigate dependency on short-term demand cycles** and ensure relevance as consumer needs evolve.
+ - **Strengthen Focus in Core Markets:** Prioritize the top 10 countries (78% of revenue) to secure a stable, scalable revenue base.
+ - **Leverage Premium Demand in High-AOV Regions**: In markets like **Japan**, where consumer appetite for high-end products is strong, implement **localized promotions, bundle deals, or exclusive discounts** to align with premium expectations and drive incremental sales.
+ - **Offset Seasonal Slumps with Targeted Campaigns:** Implement promotional strategies to address recurring dips in **October and February**. Tactics such as **early holiday promotions**, **limited-time offers**, and **customer re-engagement campaigns** (e.g., loyalty triggers) can help **smooth revenue fluctuations** and improve off-peak performance.
 
-### **Product Strategy:**
+### **Product Strategy**
 
- - **Optimize Product Portfolio:**
- 
-	 - Reassess underperforming products, such as the **iPhone** and **Bose SoundSport headphones**, which each contribute **less than 1% of total revenue** and show consistently low order volumes. These items may require **repositioning, bundling**, or even **phase-out** depending on market fit and profitability.
- - **Expand the Apple Ecosystem:**
-	 - Leverage the strong performance of Apple products, which account for **50% of total revenue**, by introducing more **Apple-compatible accessories and complementary items**.  This ecosystem-based strategy can help drive **higher average order value (AOV)**, improve **customer retention**, and increase **cross-sell potential**.
-
+ - **Optimize Product Portfolio:** Reassess **low-performing products** (e.g., iPhone, Bose SoundSport headphones, each <1% revenue) for potential repositioning, bundling, or phase-out.
+ - **Expand the Apple Ecosystem:** Introduce more **Apple-compatible accessories and complementary products** to boost AOV and cross-sell, capitalizing on Apple’s 50% revenue share.
 
 ### **Expand Loyalty Program Value**
 
 
--   **Continue Monitoring Program Performance:** 
-	- The Loyalty Program has demonstrated steady year-over-year growth, consistently outperforming non-members in **AOV, total sales, and order volume**. However, a slight **slowdown was observed at the end of 2022**, warranting continued observation before making major adjustments.
+-   **Continue Monitoring Program Performance:** The Loyalty Program has demonstrated steady year-over-year growth, consistently outperforming non-members in **AOV, total sales, and order volume**. However, a slight **slowdown was observed at the end of 2022**, warranting continued observation before making major adjustments.
     
--   **Leverage Program Value to Drive Member Spend:**  
-	- Exclusive perks and benefits have effectively incentivized members to spend more. These value drivers should be **reinforced through marketing**, especially during key purchasing periods.
+-   **Leverage Program Value to Drive Member Spend:**  Exclusive perks and benefits have effectively incentivized members to spend more. These value drivers should be **reinforced through marketing**, especially during key purchasing periods.
     
--   **Target High-AOV Returning Customers for Enrollment:**  
-	- Promote the Loyalty Program to **returning customers with high purchase value** who are not yet members. This segment is likely to convert and generate incremental value through program participation.
+-   **Target High-AOV Returning Customers for Enrollment:**  Promote the Loyalty Program to **returning customers with high purchase value** who are not yet members. This segment is likely to convert and generate incremental value through program participation.
 
 
 
