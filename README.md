@@ -156,7 +156,7 @@ Launched in 2019, the loyalty program aimed to incentivize repeat purchases thro
 
 - **Top 10 Markets: 78% of Revenue:**
 	- EverMarket’s services span over **190 countries across four global regions**. The **top 10 markets accounted for 78% of total revenue**, with the **US leading at $13.3M (47%)** and an **average order value (AOV) of $262**.  In the U.S., the **4K gaming monitor** was the top-performing product, contributing **36% of national sales**, reflecting strong consumer demand for high-performance displays.
-	- When combined with Canada, **the North American region contributed over 50% of both total revenue and order volume**, underscoring its strategic importance and maturity as a core market.**
+	- When combined with Canada, **the North American region contributed over 50% of both total revenue and order volume**, underscoring its strategic importance and maturity as a core market.
 
 - **Japan Emerges as a High-Value Growth Market:**
 	- Japan recorded the **highest AOV at $395**, well above the overall market average of $260. This was primarily driven by strong demand for **laptops and high-resolution monitors**.  
