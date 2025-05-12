@@ -79,7 +79,7 @@ From 2019 to 2022, EverMarket generated **$28M in total revenue across 108K orde
    - While **Gaming Monitors' share** declined in 2020, but it bounced back afterwards and continued climbing, **reaching nearly 40% of revenue share in 2022**, remaining firmly entrenched as the top revenue contributor.
 
  - **Low-Performing Products Worth Monitoring:**
-	 - **Bose headphones** recorded the weakest performance across the catalog, with just **27 orders** and **3K units sold** in four years, making them the least desirable product overall.
+	 - **Bose headphones** recorded the weakest performance across the catalog, with just **27 orders** and **3K revenue** in four years, making them the least desirable product overall.
 	 - Additionally, **Apple iPhone sales remained relatively low**, warranting further investigation into product positioning or pricing strategy.
 
 
